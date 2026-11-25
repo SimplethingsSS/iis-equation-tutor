@@ -1,0 +1,8 @@
+Browser verification
+Automated Chromium walkthrough with sample inputs. No participants were recruited.
+
+PASS: unassisted practice reaches completion and validates each step.
+PASS: wrong input retains the step, learner progressively reveals two hints, and a correct edit advances and clears the hints.
+PASS: new equation offers no hint control, accepts x = 4, and restart clears the interaction.
+PASS: format recovery, equivalent accepted notation, invalid transition, and independent retry behave as expected.
+PASS: 390 px mobile view shows hints without horizontal overflow.
